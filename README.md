@@ -242,7 +242,7 @@ rfm-customer-segmentation-sql-server/
 1. Install or restore the **AdventureWorks2022** sample database in SQL Server.
 2. Open the SQL script in **SQL Server Management Studio (SSMS)**.
 3. Make sure the active database is `AdventureWorks2022`.
-4. Execute the script:
+4. Execute the script located at:
 
 ```text
 sql/rfm_customer_segmentation.sql
